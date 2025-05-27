@@ -29,12 +29,11 @@ This project uses KMeans clustering to segment mall customers based on their **A
 
 Clusters are interpreted into the following customer types:
 
-- `Cluster 0`: Low Score, Low Income
-- `Cluster 1`: Low Score, High Income
-- `Cluster 2`: Mid Score, Mid Income
-- `Cluster 3`: High Score, Low Income
-- `Cluster 4`: High Score, High Income
-
+         "Mid Score, Mid Income ,Cluster 0",
+         "High Score, High Income ,Cluster 1",
+         "Low Score, High Income ,Cluster 2",
+         "Low Score, Low Income ,Cluster 3",
+         "High Score, Low Income ,Cluster 4"
 ---
 
 ## 🔧 How to Run
